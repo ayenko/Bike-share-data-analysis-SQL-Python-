@@ -1,2 +1,2 @@
-# r-bigdata
-Big Data Nuggets For R
+# Bike Share Exploratory Data Analysis
+Using Google open datasets 
